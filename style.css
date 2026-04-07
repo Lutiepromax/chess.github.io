@@ -1,0 +1,10 @@
+p{
+    font-style: italic;
+}
+svg{width: 100px; height: 100px;}
+.sidebar{width: 250px; height: 100vh; position: fixed;}
+header, footer, main{margin-left: 250px;}
+@media (orientation: portrait) and (max-width: 450px) {
+.sidebar{width: 125px;}
+header, footer, main{margin-left: 125px;}
+    }
