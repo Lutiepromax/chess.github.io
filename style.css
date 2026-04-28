@@ -11,6 +11,7 @@ header, footer, main{margin-left: 125px;}
 .picture{
     display: flex;
     justify-content: center;
+    perspective: 400px;
 }
 /* 3 */
 .btn-3 {
