@@ -83,3 +83,7 @@ header, footer, main{margin-left: 125px;}
   .btn-3 span:hover:after {
     width: 100%;
   }
+  .cont{
+    display: flex;
+    justify-content: center;
+    perspective: 400px;}
